@@ -22,7 +22,7 @@
 - **Big Data Youth** - [Kdata](http://bigjob.dbguide.net/) (Jul. 2020 ~ Sep. 2020)
 
 ### Experience
-- **Officer** - Repulic of Korea Army (Mar. 2021 ~ June. 2023)
+- **Officer** - Repulic of Korea Army (Mar. 2021 ~ Jun. 2023)
 - **Reserved Officers' Training Corps** [(ROTC)](https://en.wikipedia.org/wiki/Reserve_Officers%27_Training_Corps) (Feb. 2019 ~ Feb. 2021)
 - **Teaching Assistant** - Statistical Data Application, Gachon University (Sep. 2020 ~ Feb. 2021)
 - **Teaching Assistant** - Mathematical Statistics, Gachon University (Sep. 2019 ~ Aug. 2020)
