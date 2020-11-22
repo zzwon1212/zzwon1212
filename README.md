@@ -27,7 +27,7 @@
 - **Teaching Assistant** - Statistical Data Application, Gachon University (Sep. 2020 ~ Feb. 2021)
 - **Teaching Assistant** - Mathematical Statistics, Gachon University (Sep. 2019 ~ Aug. 2020)
 - **Researcher** - Healthcare Statistical Analysis in Hwa Jeong Seo's Lab (Jul. 2019 ~ Jul. 2020)
-- **Teacher** - Statistic Talent Donation, [Statistics Korea](https://www.google.com/search?q=Statistics+Korea&oq=Statistics+Korea&aqs=chrome..69i57j0l5j0i30l2.228j0j4&sourceid=chrome&ie=UTF-8) (May. 2018 ~ Nov. 2018)
+- **Teacher** - Statistic Talent Donation, [Statistics Korea](https://kostat.go.kr) (May. 2018 ~ Nov. 2018)
 
 ### Publications
 - Won-Tak Hong, **Jiwon Lee**, Eunju Hwang. A note on the asymptotic normality theory of the least squares estimates in multivariate HAR-RV models. The Journal of Mathematics (MDPI, Switzerland). (2020)
