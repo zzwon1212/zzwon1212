@@ -6,10 +6,6 @@
   <a href="https://www.instagram.com/zzwon12/" target="_blank"><img src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ=s180-rw" width=35 height=35 alt=""></a>
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzwon1212%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt=""></a>
- </p>
-
 ### Interests
 - **AI**, Machine Learning, Deep Learning
 - **Computer Vision**, Autonomous Driving, Eye Tracking
@@ -59,6 +55,10 @@ Honors
 **zzwon1212/zzwon1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Valedictorian
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzwon1212%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt=""></a>
+ </p>
 
 Here are some ideas to get you started:
 👋
