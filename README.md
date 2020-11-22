@@ -30,7 +30,7 @@
 - **Teacher** - Statistic Talent Donation, [Statistics Korea](https://kostat.go.kr) (May. 2018 ~ Nov. 2018)
 
 ### Publications
-- Won-Tak Hong, **Jiwon Lee**, Eunju Hwang. A note on the asymptotic normality theory of the least squares estimates in multivariate HAR-RV models. The Journal of Mathematics (MDPI, Switzerland). (2020)
+- Hong, W.-T.; **Lee, J**.; Hwang, E. A Note on the Asymptotic Normality Theory of the Least Squares Estimates in Multivariate HAR-RV Models. Mathematics 2020, 8, 2083.
 
 ### Skill
 - **Python**
