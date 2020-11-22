@@ -26,7 +26,7 @@
 - **Teacher** - Statistic Talent Donation, [Statistics Korea](https://kostat.go.kr) (May. 2018 ~ Nov. 2018)
 
 ### Publications
-- Hong, W.-T.; **Lee, J**.; Hwang, E. A Note on the Asymptotic Normality Theory of the Least Squares Estimates in Multivariate HAR-RV Models. Mathematics 2020, 8, 2083.
+- Hong, W.-T.; **Lee, J**.; Hwang, E. A Note on the Asymptotic Normality Theory of the Least Squares Estimates in Multivariate HAR-RV Models. [Mathematics 2020, 8, 2083](https://www.mdpi.com/2227-7390/8/11/2083#).
 
 ### Skill
 - **Python**
