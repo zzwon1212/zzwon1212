@@ -12,7 +12,7 @@
 
 ### Interests
 - **AI**, Machine Learning, Deep Learning
-- **Computer Vision**, Autonomous Driving
+- **Computer Vision**, Autonomous Driving, Eye Tracking
 - **Statistics**
 
 ### Education
