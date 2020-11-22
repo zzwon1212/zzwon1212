@@ -48,9 +48,9 @@ Honors
 - **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Mar. 2020)
 - **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Sep. 2019)
 - **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Mar. 2019)
-- **Academic Scholarship**, Gachon University (Sep. 2018)
-- **Academic Scholarship**, Gachon University (Mar. 2018)
-- **Academic Scholarship**, Gachon University (Sep. 2017)
+- **Academic Excellence Scholarship**, Gachon University (Sep. 2018)
+- **Academic Excellence Scholarship**, Gachon University (Mar. 2018)
+- **Academic Excellence Scholarship**, Gachon University (Sep. 2017)
 
 [![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=zzwon1212)](https://github.com/zzwon1212/github-readme-stats)
 
