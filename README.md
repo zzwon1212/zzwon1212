@@ -29,8 +29,7 @@
 - Hong, W.-T.; **Lee, J**.; Hwang, E. A Note on the Asymptotic Normality Theory of the Least Squares Estimates in Multivariate HAR-RV Models. [Mathematics 2020, 8, 2083](https://www.mdpi.com/2227-7390/8/11/2083#).
 
 ### Skill
-- **Python**
-- **R**
+- **Python**, R
 - SAS, SPSS, Minitab
 
 
@@ -40,13 +39,8 @@ Awards
 - **Best Award**, Research Symposium, Gachon University (Nov. 2019)
 
 Honors
-- **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Sep. 2020)
-- **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Mar. 2020)
-- **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Sep. 2019)
-- **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Mar. 2019)
-- **Academic Excellence Scholarship**, Gachon University (Sep. 2018)
-- **Academic Excellence Scholarship**, Gachon University (Mar. 2018)
-- **Academic Excellence Scholarship**, Gachon University (Sep. 2017)
+- **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Mar. 2019 ~ Feb. 2021)
+- **Academic Excellence Scholarship**, Gachon University (Sep. 2017 ~ Feb. 2019)
 
 
 <!--
