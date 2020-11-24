@@ -15,7 +15,7 @@
 - **B.A**. in Department of Applied Statistics, Gachon University (Mar. 2017 ~ Feb. 2021)
   - **Major GPA**: 4.48/4.5, **Total GPA**: 4.34/4.5
 - **Google Machine Learning Bootcamp** - [Google Korea](https://events.withgoogle.com/google-developers-mlb-kr/) (Oct. 2020 ~ Feb. 2021)
-- **Big Data Youth** - [Kdata](http://bigjob.dbguide.net/) (Jul. 2020 ~ Sep. 2020)
+- **Data Youth Campus** - [Kdata](http://bigjob.dbguide.net/) (Jul. 2020 ~ Sep. 2020)
 
 ### Experience
 - **Officer** - Repulic of Korea Army (Mar. 2021 ~ Jun. 2023)
