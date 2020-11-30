@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:zzwon1212@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s180-rw" width=35 height=35 alt=""></a>
+  <a href="https://scholar.google.com/citations?user=i0tQk6cAAAAJ&hl=ko&oi=sra" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" width=35 height=35 alt=""></a>
   <a href="https://www.instagram.com/zzwon12/" target="_blank"><img src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ=s180-rw" width=35 height=35 alt=""></a>
 </p>
 
