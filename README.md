@@ -23,7 +23,7 @@
 - **Officer** - Repulic of Korea Army (Mar. 2021 ~ Jun. 2023)
 - **Reserved Officers' Training Corps** [(ROTC)](https://en.wikipedia.org/wiki/Reserve_Officers%27_Training_Corps) (Feb. 2019 ~ Feb. 2021)
 - **Teaching Assistant** - Statistical Data Application, Gachon University (Sep. 2020 ~ Feb. 2021)
-- **Teaching Assistant** - Mathematics for statistical, Gachon University (Sep. 2019 ~ Aug. 2020)
+- **Teaching Assistant** - Mathematics for statistics, Gachon University (Sep. 2019 ~ Aug. 2020)
 - **Researcher** - Healthcare Statistical Analysis in Hwa Jeong Seo's Lab (Jul. 2019 ~ Jul. 2020)
 - **Teacher** - Statistic Talent Donation, [Statistics Korea](https://kostat.go.kr) (May. 2018 ~ Nov. 2018)
 
