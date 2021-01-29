@@ -13,6 +13,32 @@
 - **Computer Vision**, Autonomous Driving, Eye Tracking
 - **Statistics**
 
+
+<!--
+**zzwon1212/zzwon1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Valedictorian
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzwon1212%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt=""></a>
+ </p>
+
+[![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=zzwon1212)](https://github.com/zzwon1212/github-readme-stats)
+
+Here are some ideas to get you started:
+👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
 ### Education
 - **B.A**. in Department of Applied Statistics, Gachon University (Mar. 2017 ~ Feb. 2021)
   - **Major GPA**: 4.48/4.5, **Total GPA**: 4.33/4.5
@@ -43,27 +69,3 @@ Awards
 Honors
 - **National Honorary Scholarship**, Deputy Prime Minister, [Korea Student Aid Foundation](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship_submain03) (Mar. 2019 ~ Feb. 2021)
 - **Academic Excellence Scholarship**, Gachon University (Sep. 2017 ~ Feb. 2019)
-
-
-<!--
-**zzwon1212/zzwon1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Valedictorian
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzwon1212%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt=""></a>
- </p>
-
-[![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=zzwon1212)](https://github.com/zzwon1212/github-readme-stats)
-
-Here are some ideas to get you started:
-👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
