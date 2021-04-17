@@ -1,4 +1,4 @@
-### <div align="center">Lee Jiwon</div>
+### <div align="center">Jiwon Lee</div>
 #### <div align="center">Data Scientist</div>
 
 <p align="center">
