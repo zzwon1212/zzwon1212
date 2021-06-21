@@ -1,5 +1,5 @@
 ### <div align="center">Jiwon Lee</div>
-#### <div align="center">Data Scientist</div>
+#### <div align="center">To be Computer Vision Engineer</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/zzwon1212" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width=35 height=35 alt="LinkedIn"></a>
@@ -9,9 +9,10 @@
 </p>
 
 ### Interests
-- **AI**, Machine Learning, Deep Learning
-- **Computer Vision**, Autonomous Driving, Eye Tracking
-- **Statistics**
+<!-- - **AI**, Machine Learning, Deep Learning -->
+- **Computer Vision**
+<!-- - , Autonomous Driving, Eye Tracking -->
+<!-- - **Statistics** -->
 
 
 <!--
