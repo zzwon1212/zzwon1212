@@ -2,11 +2,11 @@
 #### <div align="center">To be Computer Vision Engineer</div>
 
 <p align="center">
-  <a href="https://zzwon1212.github.io" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=35 height=35 alt="Github Blog"></a>
-  <a href="https://linkedin.com/in/zzwon1212" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width=35 height=35 alt="LinkedIn"></a>
-  <a href="mailto:zzwon1212@gmail.com" target="_blank"><img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" width=35 height=35 alt="Gmail"></a>
-  <a href="https://scholar.google.com/citations?user=i0tQk6cAAAAJ&hl=ko&oi=sra" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" width=35 height=35 alt="Google Scholar"></a>
-  <a href="https://www.instagram.com/zzwon12/" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" width=35 height=35 alt="Instagram"></a>
+  <a href="mailto:zzwon1212@gmail.com" target="_blank"><img src="./images/Gmail.png" width=35 height=35 alt="Mail"></a>
+  <a href="https://linkedin.com/in/zzwon1212" target="_blank"><img src="./images/LinkedIn.png" width=35 height=35 alt="LinkedIn"></a>
+  <a href="https://zzwon1212.github.io" target="_blank"><img src="./images/GitHub.png" width=35 height=35 alt="GitHub Blog"></a>
+  <a href="https://www.instagram.com/zzwon12/" target="_blank"><img src="./images/Instagram.png" width=35 height=35 alt="Instagram"></a>
+<!--   <a href="https://scholar.google.com/citations?user=i0tQk6cAAAAJ&hl=ko&oi=sra" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" width=35 height=35 alt="Google Scholar"></a> -->
 </p>
 
 ### Interests
