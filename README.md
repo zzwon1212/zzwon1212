@@ -1,10 +1,10 @@
 ### <div align="center">Jiwon Lee</div>
-#### <div align="center">To be Computer Vision Engineer</div>
+<!-- #### <div align="center">To be Computer Vision Engineer</div> -->
 
 <p align="center">
   <a href="mailto:zzwon1212@gmail.com" target="_blank"><img src="./images/Gmail.png" width=35 height=35 alt="Mail"></a>
   <a href="https://linkedin.com/in/zzwon1212" target="_blank"><img src="./images/LinkedIn.png" width=35 height=35 alt="LinkedIn"></a>
-  <a href="https://zzwon1212.tistory.com" target="_blank"><img src="./images/GitHub.png" width=35 height=35 alt="GitHub Blog"></a>
+<!--   <a href="https://zzwon1212.tistory.com" target="_blank"><img src="./images/GitHub.png" width=35 height=35 alt="GitHub Blog"></a> -->
   <a href="https://www.instagram.com/zzwon12/" target="_blank"><img src="./images/Instagram.png" width=35 height=35 alt="Instagram"></a>
 <!--   <a href="https://scholar.google.com/citations?user=i0tQk6cAAAAJ&hl=ko&oi=sra" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" width=35 height=35 alt="Google Scholar"></a> -->
 </p>
@@ -12,7 +12,7 @@
 ### Interests
 <!-- - **AI**, Machine Learning, Deep Learning -->
 - **Computer Vision**
-<!-- - , Autonomous Driving, Eye Tracking -->
+- **Autonomous Driving**
 <!-- - **Statistics** -->
 
 
